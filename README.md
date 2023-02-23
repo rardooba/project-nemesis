@@ -1,4 +1,4 @@
-# KASA
+# NEMESIS
 Project Nemesis is a collaboration training project
 
 ## Getting Started with Create React App
